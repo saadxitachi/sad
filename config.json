@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100037951718438"
+    "61550670293729"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your Hinata Baby",
+  "nickNameBot": "𝒎𝒆𝒕𝒂 𝒂𝒊 𝒈𝒐𝒌 𝒈𝒐𝒌 𝒗𝒆𝒓𝒔𝒊𝒐𝒏",
   "prefix": "!",
   "database": {
     "type": "sqlite",
